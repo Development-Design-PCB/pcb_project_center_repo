@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/Development-Design-PCB/"/>
+  <default revision="master" remote="origin" sync-j="4"/>
+  <project name="Altium_Library_Design" origin="auto_mcal_ng" path="PCB_Design/Altium_Library_Design"/>
+  <project name="Control_Moto_48V_1000W" origin="auto_mcal_ng" path="PCB_Design/Control_Moto_48V_1000W"/>
+  <project name="Atmega8_Daughter_Board" origin="auto_mcal_ng" path="PCB_Design/Atmega8_Daughter_Board"/>
+</manifest>
